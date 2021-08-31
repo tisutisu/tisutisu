@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tisutisu
+- 👋 Hi, I’m Sushanta Das
 - 👀 I’m interested in Python, Go 
 - 🌱 I’m currently learning kubernetes and Openshift
 - 💞️ I’m looking to collaborate on ...
