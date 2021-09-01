@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sushanta Das
-- 👀 I’m interested in Python, Go 
+- 👀 I’m interested in Automation using Python and Go 
 - 🌱 I’m currently learning kubernetes and Openshift
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on sushanta.das.ju@gmail.com 
