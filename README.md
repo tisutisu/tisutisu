@@ -1,4 +1,5 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=tisutisu&show_icons=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tisutisu&label=Profile%20views&color=0e75b6&style=flat" alt="tisutisu" /> </p>
 <!--
 - 👋 Hi, I’m Sushanta Das
 - 👀 I’m interested in Automation using Python and Go 
