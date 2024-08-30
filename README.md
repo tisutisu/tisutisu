@@ -1,10 +1,11 @@
 **<h1 align="center">Hi 👋, I&apos;m Sushanta Das</h1>**
-Currently working at Redhat. Love to contribute to OpenSource Projects.
+Currently working at Redhat as Senior Quality Engineer. Love to contribute to OpenSource Projects.
 
 <br>
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=tisutisu&show_icons=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tisutisu&label=Profile%20views&color=0e75b6&style=flat" alt="tisutisu" /> </p>
+
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tisutisu&theme=dracula&hide_border=true">
+
 <!--
 - 👋 Hi, I’m Sushanta Das
 - 👀 I’m interested in Automation using Python and Go 
