@@ -1,3 +1,8 @@
+**<h1 align="center">Hi 👋, I&apos;m Sushanta Das</h1>**
+Currently working at Redhat. Love to contribute to OpenSource Projects.
+
+<br>
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=tisutisu&show_icons=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tisutisu&label=Profile%20views&color=0e75b6&style=flat" alt="tisutisu" /> </p>
 <!--
