@@ -1,5 +1,5 @@
 **<h1 align="center">Hi 👋, I&apos;m Sushanta Das</h1>**
-Currently working at Redhat as Senior Quality Engineer. Love to contribute to OpenSource Projects.
+Currently working at Redhat as Senior Software Quality Engineer. Love to contribute to OpenSource Projects.
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tisutisu&label=Profile%20views&color=0e75b6&style=flat" alt="tisutisu" /> </p>
