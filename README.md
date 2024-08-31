@@ -8,7 +8,7 @@ Currently working at Redhat as Senior Quality Engineer. Love to contribute to Op
 
 - 🎓 I’m an Open-Source software enthusiast
 - 💻 I am passionate about Quality, CloudNative Projects & Enjoy learning new things
-- 📃 [Resume Link(Latest)]([https://docs.google.com/document/d/1Kip2Giip3NX3hdAiJgnKYSwIC66klX_0HQt2KAfTpdw/view])
+- 📃 [Resume Link(Latest)](https://docs.google.com/document/d/1Kip2Giip3NX3hdAiJgnKYSwIC66klX_0HQt2KAfTpdw/view)
 
 <!--
 - 👋 Hi, I’m Sushanta Das
