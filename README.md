@@ -6,8 +6,8 @@ Currently working at Redhat as Senior Software Quality Engineer. Love to contrib
 
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tisutisu&theme=dracula&hide_border=true">
 
-- 🎓 I’m an Open-Source software enthusiast
-- 💻 I am passionate about Quality, CloudNative Projects & Enjoy learning new things
+- 🎓 I’m an Open-Source software enthusiast (specially CloudNative Projects)
+- 💻 Enjoy learning new things
 - 📃 [Resume Link(Latest)](https://docs.google.com/document/d/1Kip2Giip3NX3hdAiJgnKYSwIC66klX_0HQt2KAfTpdw/view)
 
 <!--
